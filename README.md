@@ -42,7 +42,7 @@ In the financial industry, automating loan approval processes helps reduce manua
    - Used Logistic Regression for binary classification
    - Feature selection via RFE (Recursive Feature Elimination)
 6. **Model Evaluation**
-   - Accuracy Score, Confusion Matrix, ROC Curve, Cohen’s Kappa, and more
+   - Accuracy Score, Confusion Matrix, ROC Curve.
 
 ---
 
@@ -53,7 +53,6 @@ In the financial industry, automating loan approval processes helps reduce manua
   - Accuracy Score
   - ROC-AUC Curve
   - Confusion Matrix
-  - Cohen Kappa Score
   - Classification Report
 
 ---
