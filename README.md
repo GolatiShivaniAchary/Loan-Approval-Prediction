@@ -64,6 +64,5 @@ In the financial industry, automating loan approval processes helps reduce manua
 - Some categorical variables like employment type and credit score were strong indicators.
 - Proper data scaling improved model generalization.
 
----
 
 
